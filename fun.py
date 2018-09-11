@@ -21,5 +21,5 @@ def multiply_two(v1, v2):
     p = v1 * v2
     print(p)
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
